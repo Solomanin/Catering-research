@@ -1,2 +1,9 @@
-# Catering-research
-Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов. Задачи проекта На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её возможностей было необходимо проверить данные и сравнить поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга.  Описание проекта Сравнение Москвы и Петербурга окружено мифами: - Москва — мегаполис, подчинённый жёсткому ритму рабочей недели; - Петербург — город своеобразной культуры, непохожий на Москву. Некоторые мифы отражают действительность. Другие — пустые стереотипы. Бизнес должен отличать первые от вторых, чтобы принимать рациональные решения. На реальных данных Яндекс.Музыки я проверила данные и сравнила поведение пользователей двух столиц  Навыки и инструменты Pandas, Python. Обработка данных, дубликаты, пропуски, логическая индексация, группировка, сортировка
+# Research of the public catering market in Moscow to make a decision to open a new establishment
+# Objectives of the project: 
+ Research of the catering market based on open data, preparation of a presentation for investors
+# Description of the project:
+ I investigated the question - will the café be successful and popular for a long time, in
+which guests are served by robot waiters. Based on the results of the analysis,presentation for investors with recommendations. In plotting, I used seaborn and plotly libraries.  
+ # Skills & Tools:
+Python,Pandas,Seaborn,Plotly, Data Visualization.
+ 
